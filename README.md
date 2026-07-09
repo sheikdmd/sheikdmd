@@ -25,24 +25,15 @@ My work sits at the intersection of **technology leadership, AI engineering, dig
 * Cloud-native applications and internal business platforms<br>
 * Data-driven control towers for leadership, finance, procurement, projects, and operations<br><br>
 
-# Featured Project Themes<br><br>
-## Enterprise AI Command Center<br><br>
-### Procurement Intelligence Hub<br><br>
-An AI-assisted procurement automation platform covering BOQ extraction, supplier quotation extraction, quotation comparison, approval package readiness, workflow approvals, and ERP-ready export flows.<br><br>
+### Featured Project Themes<br>
+### Enterprise AI Command Center<br>
+### Procurement Intelligence Hub<br>
+### Workforce Intelligence Agent<br>
+### ERP Intelligence Layer<br>
+### Operations Control Tower<br>
+### Local AI Engineering Lab<br>
 
-## Workforce Intelligence Agent<br><br>
-A local-first HR AI assistant for HR chat, policy search, document ingestion, employee records, attendance intelligence, payroll exceptions, HR letter workflows, and role-based access control.<br><br>
-
-## ERP Intelligence Layer<br><br>
-A business intelligence and automation layer designed around ERP data, finance workflows, procurement visibility, project controls, vendor ageing, approvals, reporting, and executive summaries.<br><br>
-
-## Operations Control Tower<br><br>
-A decision-support layer for operational KPIs, project progress, fleet movement, production visibility, maintenance signals, exception tracking, and management reporting.<br><br>
-
-## Local AI Engineering Lab<br><br>
-A hands-on AI engineering environment for experimenting with local LLMs, embeddings, RAG pipelines, model routing, pgvector, structured extraction, evaluation, and agent orchestration.<br><br>---<br><br>
-
-## Leadership & Delivery Focus<br><br>
+### Leadership & Delivery Focus<br>
 * CTO-level technology strategy<br>
 * IT governance and transformation roadmaps<br>
 * AI adoption and automation strategy<br>
