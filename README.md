@@ -13,8 +13,7 @@ My work sits at the intersection of **technology leadership, AI engineering, dig
 ![](https://streak-stats.demolab.com/?user=sheikdmd&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=sheikdmd&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sheikdmd&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 ## What I Build<br><br>
 
@@ -44,28 +43,6 @@ A decision-support layer for operational KPIs, project progress, fleet movement,
 
 ## Local AI Engineering Lab<br><br>
 A hands-on AI engineering environment for experimenting with local LLMs, embeddings, RAG pipelines, model routing, pgvector, structured extraction, evaluation, and agent orchestration.<br><br>---<br><br>
-
-## Tech Stack I Work With<br><br>
-### AI, LLMs & Agent Engineering<br><br>
-`Ollama` · `Qwen` · `Llama` · `Gemma` · `OpenAI` · `Claude` · `Gemini` · `Azure OpenAI` · `LangChain` · `LlamaIndex` · `Semantic Kernel` · `RAG` · `AI Agents` · `Prompt Engineering` · `Model Routing` · `Vector Search` · `Structured Extraction` · `AI Governance`<br><br>
-
-### Backend Engineering<br><br>
-`Node.js` · `TypeScript` · `Express.js` · `FastAPI` · `Python` · `Go` · `REST APIs` · `JWT` · `RBAC` · `ABAC` · `Audit Logs` · `Workflow Engines` · `Approval Systems`<br><br>
-
-### Frontend & Product Interfaces<br><br>
-`React` · `Next.js` · `Vite` · `TypeScript` · `Flutter` · `HTML` · `CSS` · `Tailwind CSS` · `Responsive UI` · `Dashboard Design` · `Admin Portals` · `Internal Business Apps`<br><br>
-
-### Databases, Search & Data Layer<br><br>
-`PostgreSQL` · `pgvector` · `Supabase` · `Redis` · `Kafka` · `SQL` · `JSONB` · `Data Pipelines` · `Embeddings` · `Document Ingestion` · `Semantic Search`<br><br>
-
-### Cloud, DevOps & Infrastructure<br><br>
-`AWS` · `Azure` · `Vercel` · `Docker` · `Kubernetes` · `EKS` · `ECR` · `S3` · `CloudFront` · `Route53` · `ALB` · `RDS` · `ElastiCache` · `MSK` · `GitHub Actions` · `CI/CD` · `Linux` · `Nginx`<br><br>
-
-### Observability, Security & Governance<br><br>
-`OpenTelemetry` · `Prometheus` · `Grafana` · `Microsoft Entra ID` · `Microsoft 365` · `Intune` · `Defender` · `Sentinel` · `SonicWall` · `DevSecOps` · `Cybersecurity Governance` · `Audit Readiness` · `Data Privacy` · `Access Control`<br><br>
-
-### ERP, Business Systems & Automation<br><br>
-`Oracle Fusion` · `Oracle Procurement` · `Oracle Projects` · `Oracle HCM` · `Primavera` · `NetSuite` · `SAP Business One` · `SAP HANA` · `Dynamics 365` · `Zoho CRM` · `Power BI` · `OTBI` · `Oracle Analytics` · `Power Automate` · `n8n` · `Make` · `Zapier`<br><br>---<br><br>
 
 ## Leadership & Delivery Focus<br><br>
 * CTO-level technology strategy<br>
