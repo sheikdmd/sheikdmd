@@ -1,116 +1,24 @@
-# Mohammed Aaftab
+# 💫 About Me:
+# Mohammed Sheikh<br><br>### CTO · IT Director · Principal AI Engineer<br><br>I build **enterprise-grade AI, automation, ERP intelligence, and cloud-native platforms** that turn complex operations into secure, measurable, and decision-ready systems.<br><br>My work sits at the intersection of **technology leadership, AI engineering, digital transformation, cybersecurity, ERP modernization, DevOps, and business process automation**. I focus on building systems that are not only technically strong, but also usable by real teams, governed by approvals, protected by audit trails, and aligned with business outcomes.<br><br>---<br><br>## What I Build<br><br>* AI-powered enterprise platforms<br>* Role-based AI agents and RAG systems<br>* ERP, procurement, HR, finance, and operations automation<br>* Executive dashboards and decision intelligence systems<br>* Secure workflow engines with approvals, RBAC, and audit logs<br>* Cloud-native applications and internal business platforms<br>* Data-driven control towers for leadership, finance, procurement, projects, and operations<br><br>---<br><br>## Featured Project Themes<br><br>### Enterprise AI Command Center<br><br>A secure AI agent platform concept for business leadership, finance, procurement, HR, project reporting, operations, and executive intelligence. Built around role-based access, model routing, approval controls, knowledge retrieval, and audit-ready architecture.<br><br>### Procurement Intelligence Hub<br><br>An AI-assisted procurement automation platform covering BOQ extraction, supplier quotation extraction, quotation comparison, approval package readiness, workflow approvals, and ERP-ready export flows.<br><br>### Workforce Intelligence Agent<br><br>A local-first HR AI assistant for HR chat, policy search, document ingestion, employee records, attendance intelligence, payroll exceptions, HR letter workflows, and role-based access control.<br><br>### ERP Intelligence Layer<br><br>A business intelligence and automation layer designed around ERP data, finance workflows, procurement visibility, project controls, vendor ageing, approvals, reporting, and executive summaries.<br><br>### Operations Control Tower<br><br>A decision-support layer for operational KPIs, project progress, fleet movement, production visibility, maintenance signals, exception tracking, and management reporting.<br><br>### Local AI Engineering Lab<br><br>A hands-on AI engineering environment for experimenting with local LLMs, embeddings, RAG pipelines, model routing, pgvector, structured extraction, evaluation, and agent orchestration.<br><br>---<br><br>## Tech Stack I Work With<br><br>### AI, LLMs & Agent Engineering<br><br>`Ollama` · `Qwen` · `Llama` · `Gemma` · `OpenAI` · `Claude` · `Gemini` · `Azure OpenAI` · `LangChain` · `LlamaIndex` · `Semantic Kernel` · `RAG` · `AI Agents` · `Prompt Engineering` · `Model Routing` · `Vector Search` · `Structured Extraction` · `AI Governance`<br><br>### Backend Engineering<br><br>`Node.js` · `TypeScript` · `Express.js` · `FastAPI` · `Python` · `Go` · `REST APIs` · `JWT` · `RBAC` · `ABAC` · `Audit Logs` · `Workflow Engines` · `Approval Systems`<br><br>### Frontend & Product Interfaces<br><br>`React` · `Next.js` · `Vite` · `TypeScript` · `Flutter` · `HTML` · `CSS` · `Tailwind CSS` · `Responsive UI` · `Dashboard Design` · `Admin Portals` · `Internal Business Apps`<br><br>### Databases, Search & Data Layer<br><br>`PostgreSQL` · `pgvector` · `Supabase` · `Redis` · `Kafka` · `SQL` · `JSONB` · `Data Pipelines` · `Embeddings` · `Document Ingestion` · `Semantic Search`<br><br>### Cloud, DevOps & Infrastructure<br><br>`AWS` · `Azure` · `Vercel` · `Docker` · `Kubernetes` · `EKS` · `ECR` · `S3` · `CloudFront` · `Route53` · `ALB` · `RDS` · `ElastiCache` · `MSK` · `GitHub Actions` · `CI/CD` · `Linux` · `Nginx`<br><br>### Observability, Security & Governance<br><br>`OpenTelemetry` · `Prometheus` · `Grafana` · `Microsoft Entra ID` · `Microsoft 365` · `Intune` · `Defender` · `Sentinel` · `SonicWall` · `DevSecOps` · `Cybersecurity Governance` · `Audit Readiness` · `Data Privacy` · `Access Control`<br><br>### ERP, Business Systems & Automation<br><br>`Oracle Fusion` · `Oracle Procurement` · `Oracle Projects` · `Oracle HCM` · `Primavera` · `NetSuite` · `SAP Business One` · `SAP HANA` · `Dynamics 365` · `Zoho CRM` · `Power BI` · `OTBI` · `Oracle Analytics` · `Power Automate` · `n8n` · `Make` · `Zapier`<br><br>---<br><br>## Leadership & Delivery Focus<br><br>* CTO-level technology strategy<br>* IT governance and transformation roadmaps<br>* AI adoption and automation strategy<br>* Enterprise architecture and platform design<br>* Cloud modernization and infrastructure governance<br>* ERP, CRM, HRMS, procurement, and finance process automation<br>* Cybersecurity, audit, compliance, and operational risk control<br>* Product delivery, stakeholder alignment, vendor management, and execution discipline<br><br>---<br><br>## Current Focus<br><br>I am focused on building **AI-native enterprise systems** that help organizations reduce manual work, improve control, accelerate decision-making, and connect operational data with leadership intelligence.<br><br>My engineering style is simple:<br><br>> Build secure systems. Automate the repetitive. Keep humans in control. Make business decisions faster.<br><br>---<br><br>## Ask Me About<br><br>`Enterprise AI` · `AI Agents` · `RAG` · `ERP Automation` · `Procurement Intelligence` · `HR Automation` · `Cloud Architecture` · `DevOps` · `Cybersecurity` · `Digital Transformation` · `Executive Dashboards` · `Workflow Automation` · `CTO Strategy`<br><br>---<br><br>## Profile Snapshot<br><br>**CTO / IT Director / Principal AI Engineer** with hands-on experience building AI platforms, automation systems, enterprise applications, cloud infrastructure, cybersecurity controls, and ERP-connected business workflows.<br><br>I bridge the gap between **boardroom strategy, enterprise systems, engineering execution, and measurable business impact**.<br>
 
-### CTO · IT Director · Principal AI Engineer
 
-I build **enterprise-grade AI, automation, ERP intelligence, and cloud-native platforms** that turn complex operations into secure, measurable, and decision-ready systems.
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=plastic&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=plastic&logo=kotlin&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=plastic&logo=digitalOcean&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=plastic&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=plastic&logo=codeIgniter&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white) ![Metero JS](https://img.shields.io/badge/meteorjs-%23d74c4c.svg?style=plastic&logo=meteor&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=plastic&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=plastic&logo=pnpm&logoColor=f69220) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=plastic&logo=nuxt.js&logoColor=#00DC82) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=plastic&logo=snowflake&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=plastic&logo=webpack&logoColor=black) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=plastic&logo=yarn&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=plastic&logo=apache-tomcat&logoColor=black) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=plastic&logo=Prisma&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=plastic&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=plastic&logo=adobeindesign&logoColor=FF3366) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=plastic&logo=adobe%20illustrator&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=plastic&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=plastic&logo=Adobe%20XD&logoColor=#FF61F6) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=plastic&logo=inkscape&logoColor=080A13) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=plastic&logo=sketchup&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=plastic&logo=selenium&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=plastic&logo=vitest&logoColor=FCC72B) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=plastic&logo=confluence&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=plastic&logo=eslint&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=plastic&logo=grafana&logoColor=white) ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=plastic&logo=openapiinitiative&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=plastic&logo=Meta&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-FFFFFF?&style=plastic&logo=opentelemetry&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=plastic&logo=Raspberry-Pi) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=plastic&logo=Prometheus&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=plastic&logo=Trello&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=plastic&logo=Twilio&logoColor=white) ![Ubiquiti](https://img.shields.io/badge/ubiquiti-%230559C9.svg?style=plastic&logo=ubiquiti&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=plastic&logo=Ubisoft&logoColor=black) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=plastic&logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=plastic&logo=unrealengine&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=sheikdmd&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=sheikdmd&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=sheikdmd&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-My work sits at the intersection of **technology leadership, AI engineering, digital transformation, cybersecurity, ERP modernization, DevOps, and business process automation**. I focus on building systems that are not only technically strong, but also usable by real teams, governed by approvals, protected by audit trails, and aligned with business outcomes.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sheikdmd&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## What I Build
-
-* AI-powered enterprise platforms
-* Role-based AI agents and RAG systems
-* ERP, procurement, HR, finance, and operations automation
-* Executive dashboards and decision intelligence systems
-* Secure workflow engines with approvals, RBAC, and audit logs
-* Cloud-native applications and internal business platforms
-* Data-driven control towers for leadership, finance, procurement, projects, and operations
-
----
-
-## Featured Project Themes
-
-### Enterprise AI Command Center
-
-A secure AI agent platform concept for business leadership, finance, procurement, HR, project reporting, operations, and executive intelligence. Built around role-based access, model routing, approval controls, knowledge retrieval, and audit-ready architecture.
-
-### Procurement Intelligence Hub
-
-An AI-assisted procurement automation platform covering BOQ extraction, supplier quotation extraction, quotation comparison, approval package readiness, workflow approvals, and ERP-ready export flows.
-
-### Workforce Intelligence Agent
-
-A local-first HR AI assistant for HR chat, policy search, document ingestion, employee records, attendance intelligence, payroll exceptions, HR letter workflows, and role-based access control.
-
-### ERP Intelligence Layer
-
-A business intelligence and automation layer designed around ERP data, finance workflows, procurement visibility, project controls, vendor ageing, approvals, reporting, and executive summaries.
-
-### Operations Control Tower
-
-A decision-support layer for operational KPIs, project progress, fleet movement, production visibility, maintenance signals, exception tracking, and management reporting.
-
-### Local AI Engineering Lab
-
-A hands-on AI engineering environment for experimenting with local LLMs, embeddings, RAG pipelines, model routing, pgvector, structured extraction, evaluation, and agent orchestration.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=sheikdmd&limit=5&theme=default&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=sheikdmd&icon=0&color=1)](https://visitcount.itsvg.in)
 
-## Tech Stack I Work With
-
-### AI, LLMs & Agent Engineering
-
-`Ollama` · `Qwen` · `Llama` · `Gemma` · `OpenAI` · `Claude` · `Gemini` · `Azure OpenAI` · `LangChain` · `LlamaIndex` · `Semantic Kernel` · `RAG` · `AI Agents` · `Prompt Engineering` · `Model Routing` · `Vector Search` · `Structured Extraction` · `AI Governance`
-
-### Backend Engineering
-
-`Node.js` · `TypeScript` · `Express.js` · `FastAPI` · `Python` · `Go` · `REST APIs` · `JWT` · `RBAC` · `ABAC` · `Audit Logs` · `Workflow Engines` · `Approval Systems`
-
-### Frontend & Product Interfaces
-
-`React` · `Next.js` · `Vite` · `TypeScript` · `Flutter` · `HTML` · `CSS` · `Tailwind CSS` · `Responsive UI` · `Dashboard Design` · `Admin Portals` · `Internal Business Apps`
-
-### Databases, Search & Data Layer
-
-`PostgreSQL` · `pgvector` · `Supabase` · `Redis` · `Kafka` · `SQL` · `JSONB` · `Data Pipelines` · `Embeddings` · `Document Ingestion` · `Semantic Search`
-
-### Cloud, DevOps & Infrastructure
-
-`AWS` · `Azure` · `Vercel` · `Docker` · `Kubernetes` · `EKS` · `ECR` · `S3` · `CloudFront` · `Route53` · `ALB` · `RDS` · `ElastiCache` · `MSK` · `GitHub Actions` · `CI/CD` · `Linux` · `Nginx`
-
-### Observability, Security & Governance
-
-`OpenTelemetry` · `Prometheus` · `Grafana` · `Microsoft Entra ID` · `Microsoft 365` · `Intune` · `Defender` · `Sentinel` · `SonicWall` · `DevSecOps` · `Cybersecurity Governance` · `Audit Readiness` · `Data Privacy` · `Access Control`
-
-### ERP, Business Systems & Automation
-
-`Oracle Fusion` · `Oracle Procurement` · `Oracle Projects` · `Oracle HCM` · `Primavera` · `NetSuite` · `SAP Business One` · `SAP HANA` · `Dynamics 365` · `Zoho CRM` · `Power BI` · `OTBI` · `Oracle Analytics` · `Power Automate` · `n8n` · `Make` · `Zapier`
-
----
-
-## Leadership & Delivery Focus
-
-* CTO-level technology strategy
-* IT governance and transformation roadmaps
-* AI adoption and automation strategy
-* Enterprise architecture and platform design
-* Cloud modernization and infrastructure governance
-* ERP, CRM, HRMS, procurement, and finance process automation
-* Cybersecurity, audit, compliance, and operational risk control
-* Product delivery, stakeholder alignment, vendor management, and execution discipline
-
----
-
-## Current Focus
-
-I am focused on building **AI-native enterprise systems** that help organizations reduce manual work, improve control, accelerate decision-making, and connect operational data with leadership intelligence.
-
-My engineering style is simple:
-
-> Build secure systems. Automate the repetitive. Keep humans in control. Make business decisions faster.
-
----
-
-## Ask Me About
-
-`Enterprise AI` · `AI Agents` · `RAG` · `ERP Automation` · `Procurement Intelligence` · `HR Automation` · `Cloud Architecture` · `DevOps` · `Cybersecurity` · `Digital Transformation` · `Executive Dashboards` · `Workflow Automation` · `CTO Strategy`
-
----
-
-## Profile Snapshot
-
-**CTO / IT Director / Principal AI Engineer** with hands-on experience building AI platforms, automation systems, enterprise applications, cloud infrastructure, cybersecurity controls, and ERP-connected business workflows.
-
-I bridge the gap between **boardroom strategy, enterprise systems, engineering execution, and measurable business impact**.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
