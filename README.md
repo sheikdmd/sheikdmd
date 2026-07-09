@@ -25,11 +25,9 @@ My work sits at the intersection of **technology leadership, AI engineering, dig
 * Cloud-native applications and internal business platforms<br>
 * Data-driven control towers for leadership, finance, procurement, projects, and operations<br><br>
 
-## Featured Project Themes<br><br>
+# Featured Project Themes<br><br>
 ## Enterprise AI Command Center<br><br>
-A secure AI agent platform concept for business leadership, finance, procurement, HR, project reporting, operations, and executive intelligence. Built around role-based access, model routing, approval controls, knowledge retrieval, and audit-ready architecture.<br><br>
-
-## Procurement Intelligence Hub<br><br>
+### Procurement Intelligence Hub<br><br>
 An AI-assisted procurement automation platform covering BOQ extraction, supplier quotation extraction, quotation comparison, approval package readiness, workflow approvals, and ERP-ready export flows.<br><br>
 
 ## Workforce Intelligence Agent<br><br>
