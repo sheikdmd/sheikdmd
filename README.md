@@ -34,7 +34,38 @@ A hands-on AI engineering environment for experimenting with local LLMs, embeddi
 
 ## Tech Stack I Work With<br><br>
 ### AI, LLMs & Agent Engineering<br><br>
-`Ollama` · `Qwen` · `Llama` · `Gemma` · `OpenAI` · `Claude` · `Gemini` · `Azure OpenAI` · `LangChain` · `LlamaIndex` · `Semantic Kernel` · `RAG` · `AI Agents` · `Prompt Engineering` · `Model Routing` · `Vector Search` · `Structured Extraction` · `AI Governance`<br><br>### Backend Engineering<br><br>`Node.js` · `TypeScript` · `Express.js` · `FastAPI` · `Python` · `Go` · `REST APIs` · `JWT` · `RBAC` · `ABAC` · `Audit Logs` · `Workflow Engines` · `Approval Systems`<br><br>### Frontend & Product Interfaces<br><br>`React` · `Next.js` · `Vite` · `TypeScript` · `Flutter` · `HTML` · `CSS` · `Tailwind CSS` · `Responsive UI` · `Dashboard Design` · `Admin Portals` · `Internal Business Apps`<br><br>### Databases, Search & Data Layer<br><br>`PostgreSQL` · `pgvector` · `Supabase` · `Redis` · `Kafka` · `SQL` · `JSONB` · `Data Pipelines` · `Embeddings` · `Document Ingestion` · `Semantic Search`<br><br>### Cloud, DevOps & Infrastructure<br><br>`AWS` · `Azure` · `Vercel` · `Docker` · `Kubernetes` · `EKS` · `ECR` · `S3` · `CloudFront` · `Route53` · `ALB` · `RDS` · `ElastiCache` · `MSK` · `GitHub Actions` · `CI/CD` · `Linux` · `Nginx`<br><br>### Observability, Security & Governance<br><br>`OpenTelemetry` · `Prometheus` · `Grafana` · `Microsoft Entra ID` · `Microsoft 365` · `Intune` · `Defender` · `Sentinel` · `SonicWall` · `DevSecOps` · `Cybersecurity Governance` · `Audit Readiness` · `Data Privacy` · `Access Control`<br><br>### ERP, Business Systems & Automation<br><br>`Oracle Fusion` · `Oracle Procurement` · `Oracle Projects` · `Oracle HCM` · `Primavera` · `NetSuite` · `SAP Business One` · `SAP HANA` · `Dynamics 365` · `Zoho CRM` · `Power BI` · `OTBI` · `Oracle Analytics` · `Power Automate` · `n8n` · `Make` · `Zapier`<br><br>---<br><br>## Leadership & Delivery Focus<br><br>* CTO-level technology strategy<br>* IT governance and transformation roadmaps<br>* AI adoption and automation strategy<br>* Enterprise architecture and platform design<br>* Cloud modernization and infrastructure governance<br>* ERP, CRM, HRMS, procurement, and finance process automation<br>* Cybersecurity, audit, compliance, and operational risk control<br>* Product delivery, stakeholder alignment, vendor management, and execution discipline<br><br>---<br><br>## Current Focus<br><br>I am focused on building **AI-native enterprise systems** that help organizations reduce manual work, improve control, accelerate decision-making, and connect operational data with leadership intelligence.<br><br>My engineering style is simple:<br><br>> Build secure systems. Automate the repetitive. Keep humans in control. Make business decisions faster.<br><br>---<br><br>## Ask Me About<br><br>`Enterprise AI` · `AI Agents` · `RAG` · `ERP Automation` · `Procurement Intelligence` · `HR Automation` · `Cloud Architecture` · `DevOps` · `Cybersecurity` · `Digital Transformation` · `Executive Dashboards` · `Workflow Automation` · `CTO Strategy`<br><br>---<br><br>## Profile Snapshot<br><br>**CTO / IT Director / Principal AI Engineer** with hands-on experience building AI platforms, automation systems, enterprise applications, cloud infrastructure, cybersecurity controls, and ERP-connected business workflows.<br><br>I bridge the gap between **boardroom strategy, enterprise systems, engineering execution, and measurable business impact**.<br>
+`Ollama` · `Qwen` · `Llama` · `Gemma` · `OpenAI` · `Claude` · `Gemini` · `Azure OpenAI` · `LangChain` · `LlamaIndex` · `Semantic Kernel` · `RAG` · `AI Agents` · `Prompt Engineering` · `Model Routing` · `Vector Search` · `Structured Extraction` · `AI Governance`<br><br>
+
+### Backend Engineering<br><br>
+`Node.js` · `TypeScript` · `Express.js` · `FastAPI` · `Python` · `Go` · `REST APIs` · `JWT` · `RBAC` · `ABAC` · `Audit Logs` · `Workflow Engines` · `Approval Systems`<br><br>
+
+### Frontend & Product Interfaces<br><br>
+`React` · `Next.js` · `Vite` · `TypeScript` · `Flutter` · `HTML` · `CSS` · `Tailwind CSS` · `Responsive UI` · `Dashboard Design` · `Admin Portals` · `Internal Business Apps`<br><br>
+
+### Databases, Search & Data Layer<br><br>
+`PostgreSQL` · `pgvector` · `Supabase` · `Redis` · `Kafka` · `SQL` · `JSONB` · `Data Pipelines` · `Embeddings` · `Document Ingestion` · `Semantic Search`<br><br>
+
+### Cloud, DevOps & Infrastructure<br><br>
+`AWS` · `Azure` · `Vercel` · `Docker` · `Kubernetes` · `EKS` · `ECR` · `S3` · `CloudFront` · `Route53` · `ALB` · `RDS` · `ElastiCache` · `MSK` · `GitHub Actions` · `CI/CD` · `Linux` · `Nginx`<br><br>
+
+### Observability, Security & Governance<br><br>
+`OpenTelemetry` · `Prometheus` · `Grafana` · `Microsoft Entra ID` · `Microsoft 365` · `Intune` · `Defender` · `Sentinel` · `SonicWall` · `DevSecOps` · `Cybersecurity Governance` · `Audit Readiness` · `Data Privacy` · `Access Control`<br><br>
+
+### ERP, Business Systems & Automation<br><br>
+`Oracle Fusion` · `Oracle Procurement` · `Oracle Projects` · `Oracle HCM` · `Primavera` · `NetSuite` · `SAP Business One` · `SAP HANA` · `Dynamics 365` · `Zoho CRM` · `Power BI` · `OTBI` · `Oracle Analytics` · `Power Automate` · `n8n` · `Make` · `Zapier`<br><br>---<br><br>
+
+## Leadership & Delivery Focus<br><br>
+* CTO-level technology strategy<br>
+* IT governance and transformation roadmaps<br>
+* AI adoption and automation strategy<br>
+* Enterprise architecture and platform design<br>
+* Cloud modernization and infrastructure governance<br>
+* ERP, CRM, HRMS, procurement, and finance process automation<br>
+* Cybersecurity, audit, compliance, and operational risk control<br>
+* Product delivery, stakeholder alignment, vendor management, and execution discipline<br><br>---<br><br>
+
+## Current Focus<br><br>
+I am focused on building **AI-native enterprise systems** that help organizations reduce manual work, improve control, accelerate decision-making, and connect operational data with leadership intelligence.<br><br>My engineering style is simple:<br><br>> Build secure systems. Automate the repetitive. Keep humans in control. Make business decisions faster.<br><br>---<br><br>## Ask Me About<br><br>`Enterprise AI` · `AI Agents` · `RAG` · `ERP Automation` · `Procurement Intelligence` · `HR Automation` · `Cloud Architecture` · `DevOps` · `Cybersecurity` · `Digital Transformation` · `Executive Dashboards` · `Workflow Automation` · `CTO Strategy`<br><br>---<br><br>## Profile Snapshot<br><br>**CTO / IT Director / Principal AI Engineer** with hands-on experience building AI platforms, automation systems, enterprise applications, cloud infrastructure, cybersecurity controls, and ERP-connected business workflows.<br><br>I bridge the gap between **boardroom strategy, enterprise systems, engineering execution, and measurable business impact**.<br>
 
 
 # 💻 Tech Stack:
