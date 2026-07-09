@@ -27,7 +27,8 @@ A local-first HR AI assistant for HR chat, policy search, document ingestion, em
 ## ERP Intelligence Layer<br><br>
 A business intelligence and automation layer designed around ERP data, finance workflows, procurement visibility, project controls, vendor ageing, approvals, reporting, and executive summaries.<br><br>
 
-## Operations Control Tower<br><br>A decision-support layer for operational KPIs, project progress, fleet movement, production visibility, maintenance signals, exception tracking, and management reporting.<br><br>
+## Operations Control Tower<br><br>
+A decision-support layer for operational KPIs, project progress, fleet movement, production visibility, maintenance signals, exception tracking, and management reporting.<br><br>
 
 ## Local AI Engineering Lab<br><br>
 A hands-on AI engineering environment for experimenting with local LLMs, embeddings, RAG pipelines, model routing, pgvector, structured extraction, evaluation, and agent orchestration.<br><br>---<br><br>
@@ -65,7 +66,13 @@ A hands-on AI engineering environment for experimenting with local LLMs, embeddi
 * Product delivery, stakeholder alignment, vendor management, and execution discipline<br><br>---<br><br>
 
 ## Current Focus<br><br>
-I am focused on building **AI-native enterprise systems** that help organizations reduce manual work, improve control, accelerate decision-making, and connect operational data with leadership intelligence.<br><br>My engineering style is simple:<br><br>> Build secure systems. Automate the repetitive. Keep humans in control. Make business decisions faster.<br><br>---<br><br>## Ask Me About<br><br>`Enterprise AI` · `AI Agents` · `RAG` · `ERP Automation` · `Procurement Intelligence` · `HR Automation` · `Cloud Architecture` · `DevOps` · `Cybersecurity` · `Digital Transformation` · `Executive Dashboards` · `Workflow Automation` · `CTO Strategy`<br><br>---<br><br>## Profile Snapshot<br><br>**CTO / IT Director / Principal AI Engineer** with hands-on experience building AI platforms, automation systems, enterprise applications, cloud infrastructure, cybersecurity controls, and ERP-connected business workflows.<br><br>I bridge the gap between **boardroom strategy, enterprise systems, engineering execution, and measurable business impact**.<br>
+I am focused on building **AI-native enterprise systems** that help organizations reduce manual work, improve control, accelerate decision-making, and connect operational data with leadership intelligence.<br><br>My engineering style is simple:<br><br>> Build secure systems. Automate the repetitive. Keep humans in control. Make business decisions faster.<br><br>---<br><br>
+
+## Ask Me About<br><br>
+`Enterprise AI` · `AI Agents` · `RAG` · `ERP Automation` · `Procurement Intelligence` · `HR Automation` · `Cloud Architecture` · `DevOps` · `Cybersecurity` · `Digital Transformation` · `Executive Dashboards` · `Workflow Automation` · `CTO Strategy`<br><br>---<br><br>
+
+## Profile Snapshot<br><br>
+**CTO / IT Director / Principal AI Engineer** with hands-on experience building AI platforms, automation systems, enterprise applications, cloud infrastructure, cybersecurity controls, and ERP-connected business workflows.<br><br>I bridge the gap between **boardroom strategy, enterprise systems, engineering execution, and measurable business impact**.<br>
 
 
 # 💻 Tech Stack:
@@ -87,4 +94,5 @@ I am focused on building **AI-native enterprise systems** that help organization
 ---
 [![](https://komarev.com/ghpvc/?username=sheikdmd&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
