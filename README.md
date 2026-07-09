@@ -23,15 +23,7 @@ My work sits at the intersection of **technology leadership, AI engineering, dig
 * Executive dashboards and decision intelligence systems<br>
 * Secure workflow engines with approvals, RBAC, and audit logs<br>
 * Cloud-native applications and internal business platforms<br>
-* Data-driven control towers for leadership, finance, procurement, projects, and operations<br><br>
-
-### Featured Project Themes<br>
-### Enterprise AI Command Center<br>
-### Procurement Intelligence Hub<br>
-### Workforce Intelligence Agent<br>
-### ERP Intelligence Layer<br>
-### Operations Control Tower<br>
-### Local AI Engineering Lab<br>
+* Data-driven control towers for leadership, finance, procurement, projects, and operations<br>
 
 ### Leadership & Delivery Focus<br>
 * CTO-level technology strategy<br>
@@ -41,28 +33,11 @@ My work sits at the intersection of **technology leadership, AI engineering, dig
 * Cloud modernization and infrastructure governance<br>
 * ERP, CRM, HRMS, procurement, and finance process automation<br>
 * Cybersecurity, audit, compliance, and operational risk control<br>
-* Product delivery, stakeholder alignment, vendor management, and execution discipline<br><br>---<br><br>
-
-## Current Focus<br><br>
-I am focused on building **AI-native enterprise systems** that help organizations reduce manual work, improve control, accelerate decision-making, and connect operational data with leadership intelligence.<br><br>My engineering style is simple:<br><br>> Build secure systems. Automate the repetitive. Keep humans in control. Make business decisions faster.<br><br>---<br><br>
-
-## Ask Me About<br><br>
-`Enterprise AI` · `AI Agents` · `RAG` · `ERP Automation` · `Procurement Intelligence` · `HR Automation` · `Cloud Architecture` · `DevOps` · `Cybersecurity` · `Digital Transformation` · `Executive Dashboards` · `Workflow Automation` · `CTO Strategy`<br><br>---<br><br>
+* Product delivery, stakeholder alignment, vendor management, and execution discipline<br>
 
 ## Profile Snapshot<br><br>
 **CTO / IT Director / Principal AI Engineer** with hands-on experience building AI platforms, automation systems, enterprise applications, cloud infrastructure, cybersecurity controls, and ERP-connected business workflows.<br><br>I bridge the gap between **boardroom strategy, enterprise systems, engineering execution, and measurable business impact**.<br>
 
-
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sheikdmd&limit=5&theme=default&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=sheikdmd&icon=0&color=1)](https://visitcount.itsvg.in)
-
-
 
